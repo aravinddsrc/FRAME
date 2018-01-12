@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="INSTALLLOCATION" />
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="ProductFilesComponentGroup">
+            <Component Id="cmp1DD8008CB72F8146F4E85EB1B97974FA" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="filE8A645A35015C396A11F2BF2178FEEA6" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Data.xlsx" />
+            </Component>
+            <Component Id="cmpA9087DC79CAC565D41414EF9134768B5" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="filC4BD6E69F6F160889BE3E9889207EE49" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Frame.exe" />
+            </Component>
+            <Component Id="cmpDC4A1F5D4902BAB093A564A113D979C3" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="filB7F8401D76CC9FC5FD59812E8D6BCE8F" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Frame.exe.config" />
+            </Component>
+            <Component Id="cmpA16D961E192B1A4EEDD43080D82B2CD1" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil1BF1364A02E03B217B0B5274E0F412C3" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Frame.pdb" />
+            </Component>
+            <Component Id="cmpB6ABA3CF140786756E067EAEF13BA3B3" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil37E77606E4CE85E72725EED2F4891369" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Frame.vshost.exe" />
+            </Component>
+            <Component Id="cmp0956C61016FAE1FF7E4B4E0BE2F37011" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil3788B6228D3FFD251F91DE384D01F550" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Frame.vshost.exe.config" />
+            </Component>
+            <Component Id="cmp6A9705F527FEDC7055AC4EFE568CF114" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil0BA28B46F0B4E60CAC34534D9ACE9B38" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\FrameWPF.vshost.exe.config" />
+            </Component>
+            <Component Id="cmp63EFA24D248CB16180EAB2C611B58F1F" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil984ADB37BC354D6E75964F41005E59D5" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\FrameWPF.vshost.exe.manifest" />
+            </Component>
+            <Component Id="cmp1F6DF8646619108DFBB033EF4679F1AC" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="filCAAC665964D1DB313016DB15221ED3C8" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\log4net.config" />
+            </Component>
+            <Component Id="cmpE5C01B5677C30D575CC15B4B558A57E0" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="filD17F9AFAC4DF3D7A44817DFBA8510C1A" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\log4net.dll" />
+            </Component>
+            <Component Id="cmp877B7234C9DA19A7310544D169C9D4B4" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil62C89A12B49E1BF54AFB70F4277695E8" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\log4net.xml" />
+            </Component>
+            <Component Id="cmp2DD42BF5943ADBA3AA4F7A173D040FE5" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil54D630AD62FBFAF5CF87498D00394ABC" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\myapp.log" />
+            </Component>
+            <Component Id="cmpC1211EEC57B3227796EBB5120188D579" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil25EAD4AF5CFACCE9129FEE97C00FB505" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Request.exe" />
+            </Component>
+            <Component Id="cmpB55410D87974A1B18D240885CE637967" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil010F8990628F08E95236F869EA7C28AB" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Request.pdb" />
+            </Component>
+            <Component Id="cmpCD1D29B30DD3C5CCB167FF2E98B9468E" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="fil39B1FAF4928375C9AD397F186073B7DB" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Splash1.gif" />
+            </Component>
+            <Component Id="cmpF56819102805B6C3C4AA8C9E34A64EB1" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="filDBAF01BC66461F9A2B1756EB0AE87217" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Utility.dll" />
+            </Component>
+            <Component Id="cmpC84979D9C01537C5C1F72C60CD135F6F" Directory="INSTALLLOCATION" Guid="*">
+                <File Id="filE5C7FF35AC4091370A5216598E4AE7CA" KeyPath="yes" Source="$(var.FrameWPF.TargetDir)\Utility.pdb" />
+            </Component>
+        </ComponentGroup>
+    </Fragment>
+</Wix>

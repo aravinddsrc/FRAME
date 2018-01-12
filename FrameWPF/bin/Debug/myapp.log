@@ -1,0 +1,25 @@
+2017-11-21 15:50:41,399 [10] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-11-21 16:01:01,726 [8] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-11-21 16:01:07,857 [8] INFO FrameWPF.SplashScreen - Callactivation
+2017-11-21 16:01:10,156 [8] INFO FrameWPF.SplashScreen - MainWindow
+2017-11-21 16:06:02,354 [9] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-11-21 16:06:08,382 [9] INFO FrameWPF.SplashScreen - Callactivation
+2017-11-21 16:06:48,184 [10] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-11-21 16:06:54,184 [10] INFO FrameWPF.SplashScreen - Callactivation
+2017-11-21 16:08:06,742 [8] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-11-21 16:08:12,774 [8] INFO FrameWPF.SplashScreen - Callactivation
+2017-11-21 16:08:42,817 [10] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-11-21 16:08:48,819 [10] INFO FrameWPF.SplashScreen - Callactivation
+2017-11-21 16:08:51,793 [10] INFO FrameWPF.SplashScreen - MainWindow
+2017-12-01 19:43:48,065 [9] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-12-01 19:43:54,485 [9] INFO FrameWPF.SplashScreen - Callactivation
+2017-12-01 19:43:56,142 [9] INFO FrameWPF.SplashScreen - The remote server returned an error: (423).
+2017-12-21 15:43:23,282 [9] INFO FrameWPF.SplashScreen - SplashScreen Initialized
+2017-12-21 15:43:30,275 [9] INFO FrameWPF.SplashScreen - Callactivation
+2017-12-21 15:43:37,202 [9] INFO FrameWPF.SplashScreen - MainWindow
+2018-01-02 16:40:50,508 [9] INFO FrameWPF.Activation - MainWindow
+2018-01-02 16:49:43,548 [9] INFO FrameWPF.Activation - MainWindow
+2018-01-02 16:50:14,886 [9] INFO FrameWPF.Activation - Shutdown
+2018-01-02 16:50:21,561 [1] INFO FrameWPF.Activation - Shutdown
+2018-01-02 16:50:36,575 [1] INFO FrameWPF.Activation - Shutdown
+2018-01-02 16:50:38,576 [1] INFO FrameWPF.Activation - MainWindow

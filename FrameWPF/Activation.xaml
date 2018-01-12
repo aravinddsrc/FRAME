@@ -1,0 +1,14 @@
+﻿<Window x:Class="FrameWPF.Activation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrameWPF"
+        mc:Ignorable="d"
+        Title="Activation" Height="106.144" Width="483.687" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="29" Margin="0,18,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="351" FontSize="20"/>
+        <Button x:Name="Activate" Content="Activate" HorizontalAlignment="Left" Margin="351,18,0,0" VerticalAlignment="Top" Width="127" Height="29" Background="#000000" IsDefault="True"  Foreground="White" FontFamily="Impact" FontSize="20" Click="button_Click"/>
+
+    </Grid>
+</Window>

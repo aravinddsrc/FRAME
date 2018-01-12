@@ -1,0 +1,7 @@
+C:\Users\aravind.a\Documents\Visual Studio 2015\Projects\Frame\INSTALLER\bin\Debug\INSTALLER.msi
+C:\Users\aravind.a\Documents\Visual Studio 2015\Projects\Frame\INSTALLER\bin\Debug\INSTALLER.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\ProductInstallFiles.wixobj
+obj\Debug\INSTALLER.wixproj.BindContentsFileListnull.txt
+obj\Debug\INSTALLER.wixproj.BindOutputsFileListnull.txt
+obj\Debug\INSTALLER.wixproj.BindBuiltOutputsFileListnull.txt

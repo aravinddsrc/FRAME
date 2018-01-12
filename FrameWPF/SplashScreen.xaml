@@ -1,0 +1,15 @@
+﻿<Window x:Class="FrameWPF.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrameWPF"
+        mc:Ignorable="d"
+        Title="SplashScreen" Height="278.958" Width="500.11" ResizeMode="NoResize" WindowStyle="None"  WindowStartupLocation="CenterScreen"  BorderThickness="5" BorderBrush="AliceBlue" >
+    <!--Background="#19b792"-->
+    <Grid Margin="0,0,31,21">
+        <MediaElement x:Name="Splash" Source="Splash1.gif" Margin="-21,-62,-40,-163" Height="473" VerticalAlignment="Top"  MediaEnded="Splash_MediaEnded" UnloadedBehavior="Manual" LoadedBehavior="Play"/>
+
+
+    </Grid>
+</Window>

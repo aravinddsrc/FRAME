@@ -1,0 +1,10 @@
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\bin\Release\Frame.exe.config
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\bin\Release\Frame.exe
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\bin\Release\Frame.pdb
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\bin\Release\Utility.dll
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\bin\Release\Utility.pdb
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\obj\Release\Frame.csprojResolveAssemblyReference.cache
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\obj\Release\Frame.Properties.Resources.resources
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\obj\Release\Frame.csproj.GenerateResource.Cache
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\obj\Release\Frame.exe
+c:\users\aravind.a\documents\visual studio 2015\Projects\Frame\Frame\obj\Release\Frame.pdb
